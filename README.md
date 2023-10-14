@@ -14,6 +14,7 @@ The primary purpose of a basic calculator is to assist individuals with day-to-d
     <li>Square Root: Finding the square root of a number.</li>
     <li>Constant Calculations: Using constants like pi (π) and Euler's number (e).</li>
 </ul>
+  
 # Usage
   <ol>
     <ol type="1" start="1">
@@ -22,6 +23,6 @@ The primary purpose of a basic calculator is to assist individuals with day-to-d
       <li>Next, you'll be asked to enter the second number.</li>
       <li>The program will then display the result of the chosen operation.</li>
   </ol>
-    
+
 # Language
 python
