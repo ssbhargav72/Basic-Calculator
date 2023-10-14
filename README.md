@@ -22,5 +22,6 @@ The primary purpose of a basic calculator is to assist individuals with day-to-d
       <li>Next, you'll be asked to enter the second number.</li>
       <li>The program will then display the result of the chosen operation.</li>
   </ol>
-# language
+    
+# Language
 python
